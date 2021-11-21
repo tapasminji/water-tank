@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(0, 33, 94);
+    font-family: 'Roboto', sans-serif;
+    color: rgb(0, 23, 71);
+    font-weight: bold;
+}
+.container{
+    max-width: 80%;
+    background-color: rgb(231, 231, 231);
+    margin: 0 auto;
+    padding: 20px;
+}
+.profile-image{
+    width: 350px;
+    height: 200px;
+    border: 3px solid white;
+    border-radius: 10%;
+    float: left;
+}
+#title{
+    color: rgb(0, 73, 10);
+    font-weight: bold;
+    font-size: 45px;
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+}
+h3,h4,h5,h6{
+    color: rgb(71, 0, 59);
+}
+.header-contact{
+    float: right;
+    padding: 30px;
+}
+.header-contact a{
+    text-decoration: none;
+    color: rgb(0, 82, 11);
+    font-weight: bold;
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color: rgb(184, 0, 101);
+}
+.clear-div{
+    clear: both;
+}
+hr{
+    border: 3px black solid;
+    width: 100%;
+    margin: 20px auto;
+    margin-top: 0;
+    border-bottom: none;
+}
+.management-result-div1{
+    width: 160px;
+    background-color: rgba(44, 0, 33, 0.37);
+    border: 2px solid rgb(51, 255, 0);
+    box-shadow: 3px 3px 5px rgb(114, 103, 0);
+    float: left;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(146, 0, 110);
+    font-weight: bold;
+}
+.management-result-div2{
+    width: 160px;
+    background-color: rgba(44, 0, 33, 0.37);
+    border: 2px solid rgb(51, 255, 0);
+    box-shadow: 3px 3px 5px rgb(114, 103, 0);
+    float: right;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(146, 0, 110);
+    font-weight: bold;
+}
+.program-title{
+    background-color: rgba(11, 0, 53, 0.692);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 3px solid rgb(150, 140, 0);
+    border-radius: 40%;
+}
+.nagetive-program-title{
+    background-color: rgba(201, 0, 0, 0.795);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 5px solid rgb(255, 238, 0);
+    border-radius: 40%;
+}
+.program-discribtion{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 3, 48);
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(49, 0, 49);
+}
+.right-div{
+    width: 70%;
+    background-color: indianred;
+}
+.common-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+.references-left-div{
+    float: left;
+    width: 50%;
+}
+.references-right-div{
+    float: right;
+    width: 50%;
+}
+.footer-container{
+    background-color: rgb(58, 49, 85);
+    text-align: center;
+    padding: 10px;
+}
+.footer-container a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.footer-container p{
+    color: rgb(0, 247, 255);
+    font-size: 10px;
+}
+#devloper{
+    color: rgb(145, 255, 0);
+    font-size: 20px;
+}
+.footer-container p:hover{
+    color: yellow;
+    font-size: 10px;
+}
+
+table{
+    border: 2px solid darkblue;
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+    border: 2px solid darkblue;
+    padding: 5px;
+    text-align: center;
+}
+th{
+    background-color: rgb(0, 85, 7);
+    color: white;
+    height: 30px;
+    vertical-align: middle;
+}
+tr:nth-child(even){
+    background-color: rgb(188, 211, 142);
+}
+tr:nth-child(odd){
+    background-color: rgb(235, 132, 172);
+}
+tr:hover{
+    background-color: rgb(199, 223, 243);
+}
+.Program-part{
+    background-color: rgb(67, 139, 115);
+    border: 1px solid red;
+    padding: 5px;
+}
