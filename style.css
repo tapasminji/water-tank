@@ -9,7 +9,7 @@ body{
     font-weight: bold;
 }
 .container{
-    max-width: 90%;
+    max-width: 95%;
     background-color: rgb(231, 231, 231);
     margin: 0 auto;
     padding: 20px;
@@ -57,26 +57,26 @@ hr{
     border-bottom: none;
 }
 .management-result-div1{
-    width: 160px;
+    width: 120px;
     background-color: rgba(44, 0, 33, 0.37);
     border: 2px solid rgb(51, 255, 0);
     box-shadow: 3px 3px 5px rgb(114, 103, 0);
     float: left;
     text-align: center;
     padding: 10px;
-    font-size: 20px;
+    font-size: 15px;
     color: rgb(146, 0, 110);
     font-weight: bold;
 }
 .management-result-div2{
-    width: 160px;
+    width: 120px;
     background-color: rgba(44, 0, 33, 0.37);
     border: 2px solid rgb(51, 255, 0);
     box-shadow: 3px 3px 5px rgb(114, 103, 0);
     float: right;
     text-align: center;
     padding: 10px;
-    font-size: 20px;
+    font-size: 15px;
     color: rgb(146, 0, 110);
     font-weight: bold;
 }
