@@ -9,10 +9,10 @@ body{
     font-weight: bold;
 }
 .container{
-    max-width: 95%;
+    max-width: 100%;
     background-color: rgb(231, 231, 231);
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px;
 }
 .profile-image{
     width: 300px;
@@ -57,26 +57,26 @@ hr{
     border-bottom: none;
 }
 .management-result-div1{
-    width: 120px;
+    width: 100px;
     background-color: rgba(44, 0, 33, 0.37);
     border: 2px solid rgb(51, 255, 0);
     box-shadow: 3px 3px 5px rgb(114, 103, 0);
     float: left;
     text-align: center;
-    padding: 10px;
-    font-size: 15px;
+    padding: 5px;
+    font-size: 10px;
     color: rgb(146, 0, 110);
     font-weight: bold;
 }
 .management-result-div2{
-    width: 120px;
+    width: 100px;
     background-color: rgba(44, 0, 33, 0.37);
     border: 2px solid rgb(51, 255, 0);
     box-shadow: 3px 3px 5px rgb(114, 103, 0);
     float: right;
     text-align: center;
-    padding: 10px;
-    font-size: 15px;
+    padding: 5px;
+    font-size: 10px;
     color: rgb(146, 0, 110);
     font-weight: bold;
 }
