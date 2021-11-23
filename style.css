@@ -33,6 +33,12 @@ body{
 h3,h4,h5,h6{
     color: rgb(71, 0, 59);
 }
+.management-header{
+    color: rgb(73, 0, 45);
+}
+.management-div{
+    color: blue;
+}
 .header-contact{
     float: right;
     padding: 30px;
@@ -79,6 +85,9 @@ hr{
     font-size: 10px;
     color: rgb(146, 0, 110);
     font-weight: bold;
+}
+.result-bar{
+    color: rgb(0, 53, 0);
 }
 .program-title{
     background-color: rgba(11, 0, 53, 0.692);
