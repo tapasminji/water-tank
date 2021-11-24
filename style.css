@@ -36,21 +36,18 @@ h3,h4,h5,h6{
 .management-header{
     color: rgb(73, 0, 45);
 }
-.management-div{
-    color: blue;
-}
 .header-contact{
     float: right;
     padding: 30px;
 }
 .header-contact a{
     text-decoration: none;
-    color: rgb(0, 82, 11);
+    color: rgb(2, 129, 19);
     font-weight: bold;
 }
 .header-contact a:hover{
     text-decoration: underline;
-    color: rgb(184, 0, 101);
+    color: rgb(47, 0, 255);
 }
 .clear-div{
     clear: both;
