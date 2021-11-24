@@ -173,13 +173,14 @@ th{
     vertical-align: middle;
 }
 tr:nth-child(even){
-    background-color: rgb(188, 211, 142);
+    background-color: rgb(198, 219, 159);
 }
 tr:nth-child(odd){
-    background-color: rgb(235, 132, 172);
+    background-color: rgb(231, 168, 192);
 }
 tr:hover{
-    background-color: rgb(199, 223, 243);
+    background-color: rgb(255, 0, 140);
+    color: white;
 }
 .Program-part{
     background-color: rgb(67, 139, 115);
