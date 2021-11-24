@@ -179,7 +179,7 @@ tr:nth-child(odd){
     background-color: rgb(231, 168, 192);
 }
 tr:hover{
-    background-color: rgb(255, 0, 140);
+    background-color: rgb(117, 0, 65);
     color: white;
 }
 .Program-part{
