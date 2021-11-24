@@ -64,7 +64,7 @@ hr{
 }
 .management-result-div1{
     width: 100px;
-    background-color: rgba(44, 0, 33, 0.37);
+    background-color: rgba(44, 0, 33, 0.171);
     border: 2px solid rgb(51, 255, 0);
     box-shadow: 3px 3px 5px rgb(114, 103, 0);
     float: left;
@@ -76,7 +76,7 @@ hr{
 }
 .management-result-div2{
     width: 100px;
-    background-color: rgba(44, 0, 33, 0.37);
+    background-color: rgba(44, 0, 33, 0.171);
     border: 2px solid rgb(51, 255, 0);
     box-shadow: 3px 3px 5px rgb(114, 103, 0);
     float: right;
